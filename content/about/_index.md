@@ -5,24 +5,23 @@ draft: false
 url: "/about"
 ---
 
-Hi, I'm Rosie (that's what my friends call me anyway). <br>(she/her)
-
-<!-- {{< figure src="me.jpg" class="singleimg" height="400x" >}}
-{{< figure src="modelme.jpg" class="singleimg" height="400x" >}} -->
+Hi, I'm Róisín (or Rosie for short). <br>(she/her)
 
 <div class="align-center">
+
 <img style="object-fit: cover; width: 300px; height: 300px; float: left; margin: 0px 25px 0px 0px;" src="me.jpg"/>
 
 <!-- <img style=" display: flex; object-fit: cover; height: 250px; width: 250px;" src="me.jpg"/> -->
 I'm a photographer passionate about keeping traditional, analogue photography practices alive.
 
-I'm an aspiring UX designer. 
+I'm a UX designer, a computer networking grad and a web development postgrad.
 
-I'm a musician. 
+I'm a multi-instrumental musician. 
 
-I'm multilingual. <br>(English, Scots and Dutch are the best languages to contact me in).
+I'm passionate about vintage technology and it's preservation.
 
-I'm a networking grad and a web development postgrad.
+I'm also multilingual. I have varying levels of skill in many languages, though English, Dutch and Scots are what I am most comfortable communicating in.
+
 
 </div>
 
@@ -32,5 +31,5 @@ twitter: <a href="https://twitter.com/rosiestquartz_">@rosiestquartz_</a>
 
 soundcloud: <a href="https://soundcloud.com/rosiestquartz">Rosie</a>
 
-email: <a href="mailto:reece.l.mcgowan@gmail.com">reece.l.mcgowan@gmail.com</a>
+email: <a href="mailto:rosie.l.mcgowan@outlook.com">rosie.l.mcgowan@outlook.com</a>
 

@@ -1,7 +1,8 @@
 baseURL = "https://rosiestquartz.github.io"
 languageCode = "en-us"
-title = "Rose Quartz Foto"
+title = "RosiestQuartz"
 theme = "sam"
+publishDir = "../portfolio-public"
 
 [markup]
   [markup.goldmark]
@@ -13,11 +14,11 @@ theme = "sam"
     	dateformfull         = "Mon Jan 2 2006 15:04:05 EST"                                              
 	favicon              = "favicon.ico"
     	homepage             = "Home"                           # What to call the home page link, link will not be rendered if empty    
-	footerText           = "Rose Quartz Foto | Rosie McGowan"
+	footerText           = "RosiestQuartz | Rosie McGowan"
 
 
 #[[params.mainMenu]]
-#	text = "Rose Quartz Foto | Rosie McGowan"
+#	text = "RosiestQuartz | Rosie McGowan"
 
 [[params.mainMenu]]
 	link = "/photography"
