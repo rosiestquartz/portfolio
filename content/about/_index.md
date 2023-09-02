@@ -5,13 +5,16 @@ draft: false
 url: "/about"
 ---
 
-Hi, I'm Róisín (or Rosie for short). <br>(she/her)
+<!-- <script src="https://use.fontawesome.com/dbc5bdc053.js"></script> -->
+
+
+Hi, I'm Rosie! <br>(she/her)
 
 <div class="align-center">
 
-<img style="object-fit: cover; width: 300px; height: 300px; float: left; margin: 0px 25px 0px 0px;" src="me.jpg"/>
+<img style="object-fit: cover; display: flex; float: left; width: 300px; height: 300px; float: left; margin: 0px 25px 0px 0px;" src="IMG_2684.jpeg"/>
 
-<!-- <img style=" display: flex; object-fit: cover; height: 250px; width: 250px;" src="me.jpg"/> -->
+<!-- <img style=" display: flex; object-fit: cover; float: left; height: 250px; width: 250px;" src="me.jpg"/> -->
 I'm a photographer passionate about keeping traditional, analogue photography practices alive.
 
 I'm a UX designer, a computer networking grad and a web development postgrad.
@@ -27,9 +30,11 @@ I'm also multilingual. I have varying levels of skill in many languages, though 
 
 If you want to contact me or see what I'm up to:
 
-twitter: <a href="https://twitter.com/rosiestquartz_">@rosiestquartz_</a>
+{{< fa fab twitter>}}<a href="https://twitter.com/rosiestquartz_">@rosiestquartz_</a>
 
-soundcloud: <a href="https://soundcloud.com/rosiestquartz">Rosie</a>
+{{<fa fab mastodon>}}<a href=https://mastodon.art/@rosiestquartz>mastodon.art/@rosiestquartz</a>
 
-email: <a href="mailto:rosie.l.mcgowan@outlook.com">rosie.l.mcgowan@outlook.com</a>
+{{< fa fab soundcloud>}}</i><a href="https://soundcloud.com/rosiestquartz">Rosie</a>
+
+{{< fa envelope>}} <a href="mailto:rosie.l.mcgowan@outlook.com">rosie.l.mcgowan@outlook.com</a>
 

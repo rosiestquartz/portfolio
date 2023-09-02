@@ -25,11 +25,11 @@ publishDir = "../portfolio-public"
 	text = "I'm a photographer"
 
 [[params.mainMenu]]
-	link = "/design"
+	link = "/comingsoon"
 	text = "I'm a designer"
 
 [[params.mainMenu]]
-	link = "/music"
+	link = "/comingsoon"
 	text = "I'm a musician"	
 
 [[params.mainMenu]]

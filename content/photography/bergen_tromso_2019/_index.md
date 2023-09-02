@@ -1,13 +1,22 @@
 ---
 title: "Bergen and Tromsø 2019"
 date: 2021-04-07T01:12:29+01:00
-draft: true
+draft: false
 type: "gallery"
-url: "photography/bergen_tromso_2019"
+url: "bergen_tromso_2019"
 maxWidth: "800x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
+<style>
+.wrap{
+    width: 70% !important;
+    max-width: 100em !important;
+    @media screen and (max-width: 736px) {
+        width: 90%;
+    }}
+    </style>
+
 In May/June 2019, I spent a few weeks in Norway exploring the cities and surroundings of Bergen, on the south-west coast, and Tromsø, in the Arctic. 
 
 The images here I feel really embody so many of the things that Norway is to me; from it's landscape, to it's culture, it's past and it's blessing of the summer midnight sun in its far north. 

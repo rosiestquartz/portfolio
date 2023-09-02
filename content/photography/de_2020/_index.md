@@ -1,13 +1,22 @@
 ---
 title: "Germany 2020"
 date: 2021-04-07T01:12:29+01:00
-draft: true
+draft: false
 type: "gallery"
 url: "photography/de_2020"
 maxWidth: "800x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
+<style>
+.wrap{
+    width: 70% !important;
+    max-width: 100em !important;
+    @media screen and (max-width: 736px) {
+        width: 90%;
+    }}
+    </style>
+
 I spent a few days visiting a friend in Leipzig, Germany in August 2020. This is a collection of some of my 
 favourite images I captured of the sights we saw together during that trip. 
 
