@@ -36,5 +36,5 @@ If you want to contact me or see what I'm up to:
 
 {{< fa fab soundcloud>}}</i><a href="https://soundcloud.com/rosiestquartz">Rosie</a>
 
-{{< fa envelope>}} <a href="mailto:rosie.l.mcgowan@outlook.com">rosie.l.mcgowan@outlook.com</a>
+{{< fa envelope>}} <a href="mailto:rosie@rosiestquartz.com">rosie@rosiestquartz.com"</a>
 
