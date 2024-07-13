@@ -8,6 +8,7 @@ maxWidth: "400x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
+**(Click on the images to see them in full!)**
 <style>
 .wrap{
     width: 70% !important;

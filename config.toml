@@ -24,9 +24,9 @@ publishDir = "../portfolio-public"
 	link = "/photography"
 	text = "I'm a photographer"
 
-[[params.mainMenu]]
-	link = "/comingsoon"
-	text = "I'm a designer"
+#[[params.mainMenu]]
+#	link = "/comingsoon"
+#	text = "I'm a designer"
 
 [[params.mainMenu]]
 	link = "/comingsoon"
