@@ -8,10 +8,10 @@ clickablePhotos: true
 keepAspectRatio: false
 url: photography/posts/infrared
 ---
-**(Click on the images to see them in full!)**
+
 <style>
 .wrap{
-    width: 70% !important;
+    width: 60% !important;
     max-width: 100em !important;
     @media screen and (max-width: 736px) {
         width: 90%;
@@ -22,3 +22,5 @@ I'm always keen on trying something experimental and, frankly, a bit mad when it
 For the uninitiated, this usually involves taking a camera or film that is sensitive to infrared and near-infrared wavelengths of light and capturing only those wavelengths through using an infrared blocking filter, which will block the rest of the visible light spectrum. This normally results in green grass and foliage showing as a bright white as they reflect infrared, and the sky either appearing black or with a dramatic colour shift. It makes for some really striking and other-worldly shots!
 
 I normally use a Canon EOS 600D with a Hoya R72 720nm filter.
+
+**(Click on the images below to see them in full!)**

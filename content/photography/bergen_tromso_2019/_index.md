@@ -8,10 +8,10 @@ maxWidth: "800x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
-**(Click on the images to see them in full!)**
+
 <style>
 .wrap{
-    width: 70% !important;
+    width: 60% !important;
     max-width: 100em !important;
     @media screen and (max-width: 736px) {
         width: 90%;
@@ -25,3 +25,5 @@ The images here I feel really embody so many of the things that Norway is to me;
 There's a reason it's one of my favourite places in the whole world.  
 
 All photos were shot with my Olympus OM2n with either Fujifilm Sensia 100, Fujifilm Pro 400H, Fujifilm Neopan 400, Kodak Portra 400 or Ilford Delta 400 film. 
+
+**(Click on the images below to see them in full!)**

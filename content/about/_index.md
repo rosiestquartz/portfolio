@@ -18,9 +18,10 @@ url: "/about"
 
 <div class="align-center">
 
-<img style="object-fit: cover; display: flex; float: left; width: 27%; height: 27%; float: left; margin: 0px 25px 0px 0px;" src="IMG_2702.jpeg"/>
+<img style="object-fit: cover; display: flex; float: left; max-width: 300px; margin: 0px 25px 0px 0px;" src="IMG_2702.jpeg"/>
 
 <!-- <img style=" display: flex; object-fit: cover; float: left; height: 250px; width: 250px;" src="me.jpg"/> -->
+
 I'm originally from just outside Glasgow, Scotland, but I'm now based in Edinburgh.
 
 I'm a sysadmin by day, though I've got an honours degree in computer networking, and a postgrad in web development.

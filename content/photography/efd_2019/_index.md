@@ -8,10 +8,10 @@ maxWidth: "400x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
-**(Click on the images to see them in full!)**
+
 <style>
 .wrap{
-    width: 70% !important;
+    width: 60% !important;
     max-width: 100em !important;
     @media screen and (max-width: 736px) {
         width: 90%;
@@ -24,3 +24,5 @@ presents, with the possibility of prizes for the best photos of the day.
 
 All photos were shot on Fujifilm NPS 160 Professional film (expired in 2005) with my Yashica Mat-124G and 
 Rolleinar #2 close-up filter. 
+
+**(Click on the images below to see them in full!)**

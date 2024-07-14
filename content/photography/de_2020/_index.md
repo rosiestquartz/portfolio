@@ -8,10 +8,10 @@ maxWidth: "800x"
 clickablePhotos: true
 keepAspectRatio: false
 ---
-**(Click on the images to see them in full!)**
+
 <style>
 .wrap{
-    width: 70% !important;
+    width: 60% !important;
     max-width: 100em !important;
     @media screen and (max-width: 736px) {
         width: 90%;
@@ -24,3 +24,5 @@ favourite images I captured of the sights we saw together during that trip.
 (All social distancing and other COVID-19-related restrictions were obeyed during this trip).
 
 All images were captured on Kodak Portra 400, Fujifilm C200 and Ilford Delta 400 film.  
+
+**(Click on the images below to see them in full!)**
