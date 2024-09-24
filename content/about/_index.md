@@ -24,7 +24,7 @@ url: "/about"
 
 I'm originally from just outside Glasgow, Scotland, but I'm now based in Edinburgh.
 
-I'm a sysadmin by day, though I've got an honours degree in computer networking, and a postgrad in web development.
+I'm a cybersec/sysadmin by day, though I've got an honours degree in computer networking, and a postgrad in web development.
 <br><br>
 I'm a photographer who's passionate about keeping traditional, analogue photography practices alive. I usually focus on architecture and the beauty of the natural world. 
 <br><br>
@@ -38,9 +38,11 @@ I'm mildly obsessed with languages. I speak Scots, English and Dutch (you can co
 
 #### If you want to contact me or see what I'm up to:<br>
 
-{{< fa fab twitter>}}<a href="https://twitter.com/rosiestquartz_">@rosiestquartz_</a> (This is currently inactive)
+{{< fa fab bluesky >}}<a href=https://bsky.app/profile/rosiestquartz.bsky.social>@rosiestquartz.bsky.social</a>
 
-{{<fa fab mastodon>}}<a href=https://mastodon.art/@rosiestquartz>mastodon.art/@rosiestquartz</a>
+{{< fa fab mastodon>}}<a href=https://mastodon.art/@rosiestquartz>mastodon.art/@rosiestquartz</a>
+
+{{< fa fab twitter>}}{{<fa fab x-twitter>}}<a href="https://twitter.com/rosiestquartz_">@rosiestquartz_</a> (This is currently inactive)
 
 {{< fa fab soundcloud>}}</i><a href="https://soundcloud.com/rosiestquartz">Rosie</a>
 
