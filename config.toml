@@ -1,4 +1,4 @@
-baseURL = "https://rosiestquartz.github.io"
+baseURL = "https://rosie.scot"
 languageCode = "en-us"
 title = "I'm Rosie"
 theme = "sam"
@@ -14,7 +14,7 @@ publishDir = "../portfolio-public"
     	dateformfull         = "Mon Jan 2 2006 15:04:05 EST"                                              
 	favicon              = "favicon.ico"
     	homepage             = "Home"                           # What to call the home page link, link will not be rendered if empty    
-	footerText           = "RosiestQuartz | Rosie McGowan"
+	footerText           = "Rosie McGowan | rosiestquartz"
 
 
 #[[params.mainMenu]]

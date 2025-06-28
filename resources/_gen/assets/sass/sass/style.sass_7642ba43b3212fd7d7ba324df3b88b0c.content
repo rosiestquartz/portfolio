@@ -43,7 +43,7 @@ ul {
 
 p {
   display: inline;
-  font-style: italic; }
+  /* font-style: italic */ }
 
 a {
   color: #d9d9d9;
