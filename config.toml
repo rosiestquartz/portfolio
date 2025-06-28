@@ -1,6 +1,6 @@
 baseURL = "https://rosiestquartz.github.io"
 languageCode = "en-us"
-title = "RosiestQuartz"
+title = "I'm Rosie"
 theme = "sam"
 publishDir = "../portfolio-public"
 

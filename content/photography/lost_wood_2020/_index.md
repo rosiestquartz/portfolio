@@ -11,7 +11,7 @@ url: photography/posts/lost_wood_2020
 
 <style>
 .wrap{
-    width: 60% !important;
+    width: 65% !important;
     max-width: 100em !important;
     @media screen and (max-width: 736px) {
         width: 90%;
